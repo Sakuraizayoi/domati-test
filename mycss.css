@@ -1,0 +1,63 @@
+/* 主體顏色 */
+body {background-color: #cae6f2;margin: 0;}
+
+/* 大標題*/
+h1{font-size: 3em;color: #6000a2;text-align: center;}
+
+/* 選單 */
+.navigation ul {background-color: #461bb6;margin: 0;padding: 4px;text-align: center;}
+
+.navigation ul li {list-style-type: none;display: inline;margin: 0 8px;}
+
+.navigation ul li a {color: #f6cee8;text-decoration: none;}
+
+.navigation ul li a:hover {color: #461bb6;text-decoration: underline;}
+
+/* 主視覺圖片背景 */
+.mainvisual {background-color:  #9379d0;border-bottom: solid 3px #000000;}
+
+.mainvisual img {display: block;margin: 0 auto;max-width: 100%;height: auto;}
+
+/* 自我介紹框框大小 */
+article {padding: 16px 16px;}
+
+/* 自我介紹背景色・文字色 */
+#profile {background-color: #cad6f0;color: #005eb0;}
+
+/* 邊界設定 */
+#profile .inner {max-width: 600px;margin: 0 auto;}
+
+#concert {max-width: 600px;margin: 0 auto;}
+
+/* 介紹圖片的文字 */
+section {text-align: center;margin: 48px 0;}
+
+/* 標題23 */
+h2 {text-align: center;}
+
+h3 {text-align: center;border-left: solid 6px #6b3008;padding-center: 6px;}
+    
+/* 表格 */
+table {text-align: center;border-collapse: collapse;width: 70%;}
+
+th,td {border: solid 1px #999999;padding: 16px;}
+
+th {background-color: #62d5e8;}
+
+/* 圖片 */
+.performer {text-align: center;margin: 0 0 24px;overflow: hidden;}
+
+.performer img {text-align: center;margin: 0 16px 0 0;}
+
+.performer h4 {text-align: center;margin: 0 0 0.5em;}
+
+.performer p {text-align: center;margin: 0;}
+
+/* 回頁首 */
+.pagetop {text-align: center;}
+
+/* 著作權 */
+.copyright {border-top: solid 3px #000000;text-align: center;}
+
+/* 著作 */
+ol li {list-style-type: upper-roman;}
