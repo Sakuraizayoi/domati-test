@@ -1,7 +1,9 @@
-books{color:#bf20c2;background-color:#cce1f5;width:100%;}
+books{text-align: center;color:#bf20c2;background-color:#cceef8;width:100%;}
 
-heading{color: #02a0c5;font-size:50px;background-color:#f4fbd2;}
+heading{text-align: center;color: #02a0c5;font-size:50px;background-color:#f4fbd2;}
 
 heading,title,author,publisher{display:block;}
 
-title{font-size:30px;font-weight:bold;}
+title{text-align: center;font-size:30px;font-weight:bold;}
+
+author,publisher{text-align: center;font-size:20px;font-weight:bold;}
